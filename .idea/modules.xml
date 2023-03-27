@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Kvs-spring-di.iml" filepath="$PROJECT_DIR$/.idea/Kvs-spring-di.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springdiapplication/Springdiapplication.iml" filepath="$PROJECT_DIR$/Springdiapplication/Springdiapplication.iml" />
     </modules>
   </component>
 </project>
